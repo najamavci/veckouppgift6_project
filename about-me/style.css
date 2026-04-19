@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+  background: #eef4ff;
+  color: #1f2a44;
+}
+
+.profile {
+  max-width: 700px;
+  margin: 2rem auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 14px;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  width: 220px;
+  border-radius: 12px;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #2457c5;
+}
